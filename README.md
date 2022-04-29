@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devendran Subramaniya
+- 👋 Hi, I’m Devendran Subramaniyan
 - 👀 I’m interested in Azure DevOps, UNIX and PL/SQL
 - 🌱 I’m currently learning Azure DevOps  
 - 💞️ I’m looking to collaborate on ...
